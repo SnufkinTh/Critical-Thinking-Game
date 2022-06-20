@@ -3,6 +3,7 @@
 Critical Thinking Game, a project mady in Unity Game Engine for a course in Tallinn University Digitechnology Institute.
 
 Rakenduse eesmärk on olla kasulikuks vahendiks...
+![Critical thinking Game](https://github.com/SnufkinTh/Critical-Thinking-Game/blob/main/Tink.jpg)
 
 Projekt on tehtud Tallinna Ülikooli Digitehnoloogia Instituudi Tarkvaraarenduse projekti aine raames.
 
@@ -45,4 +46,3 @@ Tegemist on GitHubi jagatud töölauaga, seda ei lähe vaja.
 2. Järgides installeerimisjuhendit paigaldada
 
 **Projektis on kasutatud MIT litsents.**
-

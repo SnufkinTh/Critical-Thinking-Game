@@ -1,9 +1,10 @@
 # Testimine
 
 Viisime läbi osad testid ning jooksvalt tegime parandusi. Testisime pre-release versiooni ühe inimese peal, et saada teada probleemidest, mida tuleb lihvida ning testisime valmis versiooni (1.0) kahe inimese peal, et saada tagasisidet mängijatelt.
-Pre-release testimine oli vabas vormis, kus testija kommenteeris toimuvat ning mida ta arvab sellest.
 
 # Test 1 (Pre-release)
+
+Pre-release testimine oli vabas vormis, kus testija kommenteeris toimuvat ning mida ta arvab sellest.
 
 **Animatsioon**
 Animatsioon on meeldiv, mäng tundub dünaamiline.

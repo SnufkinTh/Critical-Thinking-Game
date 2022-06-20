@@ -32,7 +32,7 @@ Projekt on tehtud Tallinna Ülikooli Digitehnoloogia Instituudi Tarkvaraarenduse
 4. Unity Hub'is avada projekt 2020.3.35f1 versiooniga
 
 **Plastic SCM:**
-Tegemist on GitHubi jagatud töölauaga, seda ei lähe vaja.
+Tegemist on jagatud töölauaga, seda ei lähe vaja ning paigaldada vabalt ei ole võimalik.
 
 **Firebase:**
 ...

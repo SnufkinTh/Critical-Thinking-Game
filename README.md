@@ -23,7 +23,17 @@ Projekt on tehtud Tallinna Ülikooli Digitehnoloogia Instituudi Tarkvaraarenduse
 
 - Jüri Mets- Projekti tellija ehk klient, idee looja
 
-# Paigaldusjuhised
+# Paigaldus ja kasutusjuhised
+
+**Mäng windowsi jaoks**
+1. Hangi Windowsi versioon mängust kaustast: https://drive.google.com/drive/folders/1T4U7Ix6nLVO5JY7F_E0fVPPLy-FKb-aO?usp=sharing
+2. Käivita Tink.exe
+
+**Mäng Androidi jaoks:**
+1. Hangi Androidi versioon mängust kaustast: https://drive.google.com/drive/folders/1T4U7Ix6nLVO5JY7F_E0fVPPLy-FKb-aO?usp=sharing
+2. Vajadusel luba tundmatutest allikatest rakenduste paigaldamine.
+3. Installeeri endale Tink.apk
+4. Käivita Tink rakendus
 
 **Unity:**
 1. Laadida alla Unity: https://unity3d.com/get-unity/download
@@ -34,8 +44,11 @@ Projekt on tehtud Tallinna Ülikooli Digitehnoloogia Instituudi Tarkvaraarenduse
 **Plastic SCM:**
 Tegemist on jagatud töölauaga, seda ei lähe vaja ning paigaldada vabalt ei ole võimalik.
 
-**Firebase:**
+**Firebase paigaldus:**
 ...
+
+**Firebase kasutus:**
+Ei saa jagada neid faile siin, kuna omab potentsiaalset riski kasutajatele ning sellega võib rikkuda mängu sisu.
 
 **Inkscape:**
 1. Laadida alla Inkspace: https://inkscape.org/release/inkscape-1.1.2/windows/64-bit/exe/dl/

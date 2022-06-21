@@ -2,7 +2,7 @@
 # Critical-Thinking-Game
 Critical Thinking Game, a project mady in Unity Game Engine for a course in Tallinn University Digitechnology Institute.
 
-Rakenduse eesmärk on olla kasulikuks vahendiks...
+Rakenduse eesmärk on olla kasulikuks vahendiks kriitilise mõtlemise arendamiseks. Kriitilist mõtlemine kujutab endast oskust kiiresti ning põhjalikult analüüsida saadavat informatsiooni ning filtreerida välja võimalik väärinfo. Tudengid ei omanda kriitilise mõtlemise oskuseid oma õpingute jooksul.(Bok, 2006; Arum and Roksa, 2010; Arum et  al., 2011; Pascarella et  al., 2011) Kriitilise mõtlemise oskus on eriti tähtis tänapäeval väärinformatsiooni leviku tõttu erinevalt sotsiaalmeedia platvormitel. Eriti võimas platvorm on hetkel TikTok, kus on võimalik vaatajat visuaalidega ja hea montaaźiga ära petta ning et seda ei juhtuks on vaja arendada kriitilist mõtlemist.
 ![Critical thinking Game](https://github.com/SnufkinTh/Critical-Thinking-Game/blob/main/Tink.jpg)
 
 Projekt on tehtud Tallinna Ülikooli Digitehnoloogia Instituudi Tarkvaraarenduse projekti aine raames.
@@ -32,7 +32,7 @@ Projekt on tehtud Tallinna Ülikooli Digitehnoloogia Instituudi Tarkvaraarenduse
 **Mäng Androidi jaoks:**
 1. Hangi Androidi versioon mängust kaustast: https://drive.google.com/drive/folders/1T4U7Ix6nLVO5JY7F_E0fVPPLy-FKb-aO?usp=sharing
 2. Vajadusel luba tundmatutest allikatest rakenduste paigaldamine.
-3. Installeeri endale Tink.apk
+3. Installeeri endale Think.apk
 4. Käivita Tink rakendus
 
 **Unity:**
